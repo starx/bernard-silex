@@ -1,5 +1,5 @@
 {
-    "name" : "bernard/silex",
+    "name" : "starx/bernard-silex",
     "description" : "Silex service provider for Bernard",
     "license" : "MIT",
     "autoload" : {
@@ -10,7 +10,7 @@
 
     "require" : {
         "php"             : ">=5.3.3",
-        "bernard/bernard" : ">=0.12,<0.13"
+        "bernard/bernard" : "~1.0"
     },
 
     "require-dev" : {
